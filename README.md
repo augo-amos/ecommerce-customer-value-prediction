@@ -84,7 +84,6 @@ ecommerce-customer-value-prediction/
 ├── Ecommerce_Customers_Synthetic.csv   # Dataset
 ├── requirements.txt                    # Python dependencies
 ├── README.md                          # Project documentation
-└── images/                            # Visualization outputs
 ```
 
 ## Key Insights
